@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\114f052a6f22faf0630686d3a9e8ec8096b0514e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8d3af400e58a6dc9d07bf45934f504159dffb28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\5659a29af8c9f8c440014cef416629e0a2826353\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f627006467701f25c75fa9e3fcb9b08e6a1d22e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\3274933cefb2ff9359055710d47f3f597309bfe2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef98397c679d0f2f93475e51f5b0e376483a9526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\26d798db2063df05d8c0574c2a5283bf374b2aad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef1adc0d356a92c4d1ea9c263a42266811635414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\04ce6d0c3957bc4f8bfa8ca02cc4aed314a49081\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_695f9c57386f1a4fc36a8357734fe17c54e3ccc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\889fca96e91c9eb0aef0e511ba386e2583a4bb8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5992311465a9e398ba32a084b7908b695f3504f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\08f9cae5d937761b183c5f71da4329251cd72df7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5509752d1360db9e696eb038975618c538c46150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\d7e5acb5a1aeba74a21e65548a16a6311bfe8efe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc6d2d5e65c14c4b9f9ccf50cdc56650527cf867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\eba964da859dae08b34570f32a1f510d7a7fcd65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac39c0d63aa62a70f35b7b8b1fcf8384b87302a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\66f89154e35e4d5bb5f2ef30b3aa7f9116f4bb42\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_88e4162b973553fb23acaa4e5ed014404bee8bab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\381778b75468ffe045f6ed1085f3c7c664f0b52a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39110c3d64633dbb482861c68b78aa7d2f25fcab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\89c87477303d803184e3c7c43dcfca5bc0aeae8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75b0f9194fb141772acb450757db9e068ca30a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b778a4e9bcba9fc61608ceca05e1e9aea85e448b">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e34ae28b5620b9e8edbf36be7daf92086a69b04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_2617527e209b25f33d66575ad1e2ff86dc95a41e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\80b9c2c1a8a5231e70c801e9ca2824af4ef89c8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30e437b1d8950c72c683640cd21970fc4f14ab1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\80b9c2c1a8a5231e70c801e9ca2824af4ef89c8b\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_e4e5d93d7d53d8c873b5e2c7fddc42aeee7516e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\f7be796bfa0399aad2467c8f3cbd6ab57d86ede4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_668b1e8a67919ce9ccb9457f47a7b4e0f3ac9c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\2f675766d3818b1109345dc360c440abad7ac16f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c43802e0cc0e5463a5ac34cef62b34efbf4c1be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\3e7c56a0a068cd8c727c16aa376b793a2aa30fba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_084268987658f6e644e6ad658f7f642b001a474e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\ffc39b74b4227fc4098d79bed11405e5903a3f22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de5421277df5cf09b5541802108c7017d3204ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\dab182bdb28575d1fc14e8510d50e1ace8d7669b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c75bf8d423181f0be795b04543178838d7454371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\ffd807a028de25f76f1ba0dc5f4eb526eb81c680\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87d61812b2f346ecd52d40a69ae1f68f7001df06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\2527fee5fa75837bd2f0c8fc42663eccb650c4e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0a237626ec7197c076020413b82a152b108075e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\e1f060166336d2d60540add9e5a78104abb0fddd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74b6a42dbfbc6ca8d9bcd5f64192c469b7135304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b8cd483625cbf5784740c802225aa3b0352c5d0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\48ea17cf9a7b4831d8c5f8916e0eda8aab9d9a35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f32760f84be587450b338ae5530fb5b23f3cdbb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\bd1ccc11282fe98aea70a4254cea25608d412f5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72edc2ce43217ec729f39e8a0e41929eef447d73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\1a94f2f9f63d6f7adb1ed8b406d00d225cc0ca9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54a9d557dbdb96c7b83de9cf0a08286c81fa3233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\11735d962ff051980b22135011294dfbe09c48c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e4c7266e9f6e1e9504218591d8f2ea9d1cb69f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\7ef0b55816202b76043d43206c5a6e975a944b68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6cbecb29bb2e9dd517c6d0dd2fd6093c1da50904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\f53696b4618dcb15bdbb8e65f5df0cadba9412fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31572ff848de41707cd5880364afd92b1b0bde85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\66f89154e35e4d5bb5f2ef30b3aa7f9116f4bb42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a866c64ca092d4fd2d29006c8bd29bcadb6d94a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elyer\.android\build-cache\e39fa4dccf341f7d1a2b0e8990e082f233e08bde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Ely\Desenvolvimento\Android\AulaAndroid-MapDirection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7f725d2848c66f824129c17ee25ab6255b6c3f4\classes.dex" />
+    </item>
+
+</items>
